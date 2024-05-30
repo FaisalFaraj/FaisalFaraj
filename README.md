@@ -65,7 +65,7 @@ Also built the best 1# Flutter package to deal with Responsive and Adaptive Desi
 
 Ranked #27 as one of the top contributors in my country on GitHub 🏋‍♂️️.
 
-Ranked #22 in my country on Stack Overflow ⚡️.
+Ranked #13 in my country on Stack Overflow ⚡️.
 
    <p align="left">
 
